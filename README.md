@@ -1,6 +1,6 @@
 # parcel-sample
 
-A code reduction to demonstrate an issue I'm having.
+A code reduction to demonstrate an issue I'm having. I see the same result with and without the `react-hot-loader`.
 
 ## Steps
 
